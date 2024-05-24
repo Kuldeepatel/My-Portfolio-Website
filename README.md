@@ -1,5 +1,5 @@
 # Portfolio Website
-#### Welcome to my portfolio website! This project showcases my work, skills, and experience as a developer. The website is built using HTML and CSS.
+#### Welcome to my portfolio website! This project showcases my work, skills, and experience. The website is built using HTML and CSS.
 
 ## Introduction
 #### This is a personal portfolio website designed to display my projects, skills, and professional background. The goal is to provide a comprehensive view of my work, Projects and Skills.
